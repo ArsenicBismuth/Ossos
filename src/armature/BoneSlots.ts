@@ -136,7 +136,7 @@ class BoneSlots{
 
                 //-------------------------------------
                 // APPLY
-                this.onAttachmentUpdate( si.obj, rot, pos, scl, b.world.rot );
+                this.onAttachmentUpdate( si.obj, rot, pos, scl );
             }
         }
 

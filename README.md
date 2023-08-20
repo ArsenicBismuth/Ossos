@@ -21,6 +21,14 @@ npm install
 npm run dev
 ```
 
+### Build ###
+
+```
+npm install
+npm run build
+npm run build:types
+```
+
 **[ NOTE ]** To be able to run the example, you'll need to go into /examples/_res/ and follow the instructions to clone the resource repo. The files are quite large, so they are kept in a seperate repo to keep this project as light weight as possible.
 
 ## Usage ###

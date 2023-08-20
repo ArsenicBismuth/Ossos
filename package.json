@@ -11,13 +11,13 @@
     "bugs"          : { "url": "https://github.com/sketchpunklabs/ossos/issues" },
 
     "files"         : [ "dist" ],
-    "main"          : "./dist/ossos.cjs.js",
+    "main"          : "./dist/ossos.js",
     "module"        : "./dist/ossos.es.js",
     "types"         : "./dist/ossos.d.ts",
     "exports": {
         ".": {
             "import"  : "./dist/ossos.es.js",
-            "require" : "./dist/ossos.cjs.js"
+            "require" : "./dist/ossos.js"
         }
     },
 

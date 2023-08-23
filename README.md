@@ -29,7 +29,16 @@ npm run build
 npm run build:types
 ```
 
-**[ NOTE ]** To be able to run the example, you'll need to go into /examples/_res/ and follow the instructions to clone the resource repo. The files are quite large, so they are kept in a seperate repo to keep this project as light weight as possible.
+### Pack ###
+
+```
+npm pack
+```
+Then drag-n-drop the `.tgz` file into the release page of this repo.
+
+### Example ###
+
+To be able to run the example, you'll need to go into /examples/_res/ and follow the instructions to clone the resource repo. The files are quite large, so they are kept in a seperate repo to keep this project as light weight as possible.
 
 ## Usage ###
 
